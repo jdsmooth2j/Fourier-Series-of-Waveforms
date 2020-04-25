@@ -1,5 +1,5 @@
 # Fourier-Series-of-Waveforms
-Includes Fourier Series plots and sample data of the ff:
+Includes Fourier Series plots and sample data of the following:
 Triangular Wave 
 Square Wave
 Saw Tooth Wave
